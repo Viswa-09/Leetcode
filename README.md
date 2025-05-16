@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Viswa-09/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0898-transpose-matrix](https://github.com/Viswa-09/Leetcode/tree/master/0898-transpose-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Viswa-09/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Viswa-09/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Viswa-09/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Viswa-09/Leetcode/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Viswa-09/Leetcode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
